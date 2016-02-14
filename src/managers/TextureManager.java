@@ -63,7 +63,6 @@ public class TextureManager {
 			spriteArr[INVADER_POWERFUL][1] = sprites.getSubImage(214, 38, 6, 14);
 			
 		} catch (SlickException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 	}

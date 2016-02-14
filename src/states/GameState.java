@@ -303,7 +303,6 @@ public class GameState extends BasicGameState {
 	
 	@Override
 	public int getID() {
-		// TODO Auto-generated method stub
 		return Main.STATE_GAME;
 	}
 

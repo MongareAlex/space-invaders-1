@@ -35,7 +35,6 @@ public class WonState extends BasicGameState {
 
 	@Override
 	public void render(GameContainer gc, StateBasedGame sbg, Graphics g) throws SlickException {
-		// TODO Auto-generated method stub
 		text.draw(g);
 	}
 
@@ -53,7 +52,6 @@ public class WonState extends BasicGameState {
 
 	@Override
 	public int getID() {
-		// TODO Auto-generated method stub
 		return Main.STATE_WON;
 	}
 

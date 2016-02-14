@@ -21,19 +21,16 @@ public class LoadingState extends BasicGameState {
 
 	@Override
 	public void render(GameContainer gc, StateBasedGame sbg, Graphics g) throws SlickException {
-		// TODO Auto-generated method stub
 		text.draw(g);
 	}
 
 	@Override
 	public void update(GameContainer gc, StateBasedGame sbg, int delta) throws SlickException {
-		// TODO Auto-generated method stub
 		sbg.enterState(Main.STATE_SPLASH);
 	}
 
 	@Override
 	public int getID() {
-		// TODO Auto-generated method stub
 		return Main.STATE_LOADING;
 	}
 
