@@ -1,4 +1,2 @@
-# Space Invaders Clone
-A simple Space Invaders clone built with Slick2D
-
-My first game development attempt. I've decided to start with essential games.
+# Space Invaders
+A simple Space Invaders clone built with Slick2D in Java.
